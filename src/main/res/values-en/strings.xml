@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="coiffe">Hat</string>
+    <string name="cape">Cape</string>
+    <string name="amulette">Amulet</string>
+    <string name="anneau">Ring</string>
+    <string name="ceinture">Belt</string>
+    <string name="bottes">Boots</string>
+    <string name="arme">Weapons</string>
+    <string name="bouclier">Shield</string>
+    <string name="troph">Trophy</string>
+    <string name="www_dofus_com">www.dofus.com/en</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">DofusItems</string>
+    <string name="dofusbook_com" translatable="false">DofusBook.com</string>
+    <string name="dofus_com" translatable="false">Dofus.com</string>
+    <string name="coiffe">Coiffe</string>
+    <string name="cape">Cape</string>
+    <string name="amulette">Amulette</string>
+    <string name="anneau">Anneau</string>
+    <string name="ceinture">Ceinture</string>
+    <string name="bottes">Bottes</string>
+    <string name="arme">Armes</string>
+    <string name="bouclier">Bouclier</string>
+    <string name="troph">Trophé</string>
+    <string name="dofus" translatable="false">Dofus</string>
+    <string name="www_dofus_com">www.dofus.com/fr</string>
+    <string name="www_dofusbook_net" translatable="false">www.dofusbook.net</string>
+</resources>
